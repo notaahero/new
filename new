@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Page</title>
+</head>
+<body>
+  <h1>Welcome!</h1>
+  <figure>
+    <img src="image.jpg" alt="Image">
+    <figcaption>Caption for the image</figcaption>
+  </figure>
+  <p>Thanks for visiting!</p>
+</body>
+</html>
